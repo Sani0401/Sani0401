@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sani</h1>
 
 <img align="center" alt="Coding" width="100%"  src ="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate Engineer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sani0401&label=Profile%20views&color=0e75b6&style=flat" alt="sani0401" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sani0401" alt="sani0401" /></a> </p>
